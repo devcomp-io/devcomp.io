@@ -41,3 +41,9 @@ Looking for contributors to integrate
     Once these tasks are done this service can be integrated to hold all the projects
     you are working on in one place with a UI that can be extended by other services.
 
+  * https://juju.ubuntu.com/
+    #### TODO
+      * Create a service that can be deployed with pio.
+      * Create an API that can be used to configure and manage deployments.
+    Once these tasks are done this service can be integrated to automatically deploy
+    subsets of services and packages into OpenStack environments.
