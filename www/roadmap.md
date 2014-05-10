@@ -26,6 +26,10 @@ You are welcome to participate and contribute your unique point of view.
 Looking for contributors to integrate
 =====================================
 
+If you are interested in contributing in any way, announce your intent in a weekly meeting so we can discuss.
+Christoph can mock out a service as a starting point and discuss further details during the meetings.
+This will teach everyone how to build services of all kinds.
+
   * https://github.com/kentonv/sandstorm
     #### TODO
       * Create a service that can be deployed with pio.
@@ -70,4 +74,13 @@ Looking for contributors to integrate
       * Create a dev UI that uses API to full extent.
     Once these tasks are done this service can be used to provide an integrated
     solution for vetting third party code before loading it into unsecured runtimes.
+
+  * https://github.com/digitalbazaar/forge
+    #### TODO
+      * Create a service that can be deployed with pio.
+      * Create an API that can be used to perform all kinds of common cryptography operations.
+      * Create a dev UI that uses API to full extent.
+    Once these tasks are done this service can be used to provide an integrated
+    solution for end-to-end encryption on the server, in apps and in the browser.
+
 
