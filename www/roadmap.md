@@ -8,7 +8,7 @@ Christoph will be building out devcomp.io into a **hackable open dev system** be
 now (May 2014) and the end of 2014 while *recoding the process in weekly video conference
 calls* and other learning materials. [learn.devcomp.io](http://learn.devcomp.io)
 
-devcomp.io is a realtime test to see how a wide community can work together on a complex
+devcomp.io is a continously evolving test to see how a wide community can work together on a complex
 open source system using best practices and latest tooling by following the leadership
 of a small group of developers operating under the
 [Programmer Anarchy](https://www.youtube.com/watch?v=uk-CF7klLdA) model.
