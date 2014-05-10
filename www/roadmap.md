@@ -35,6 +35,7 @@ This will teach everyone how to build services of all kinds.
       * Create a service that can be deployed with pio.
       * Create an API that can be used to configure/control containers.
       * Create a dev UI that uses API to full extent.
+    
     Once these tasks are done this service can be integrated to start to provide isolated
     runtime contexts for untrusted third party code.
 
@@ -42,6 +43,7 @@ This will teach everyone how to build services of all kinds.
     #### TODO
       * Create a service that can be deployed with pio.
       * Create an API that can be used to configure repositories and set access rules.
+    
     Once these tasks are done this service can be integrated to hold all the projects
     you are working on in one place with a UI that can be extended by other services.
 
@@ -49,6 +51,7 @@ This will teach everyone how to build services of all kinds.
     #### TODO
       * Create a service that can be deployed with pio.
       * Create an API that can be used to configure and manage deployments.
+    
     Once these tasks are done this service can be integrated to automatically deploy
     subsets of services and packages into OpenStack environments.
 
@@ -56,6 +59,7 @@ This will teach everyone how to build services of all kinds.
     #### TODO
       * Create a service that can be used for local development.
       * Create an API that can be used to configure and launch profiles.
+    
     Once these tasks are done this service can be used to provide an integrated
     browser for development.
 
@@ -64,6 +68,7 @@ This will teach everyone how to build services of all kinds.
       * Create a service that can be used for local development.
       * Create a service that can be used for bundling of extensions.
       * Create an API that can be used to create, build, bundle and launch extensions.
+    
     Once these tasks are done this service can be used to provide an integrated
     solution for delivering and running privileged code on in user's browsers.
 
@@ -72,6 +77,7 @@ This will teach everyone how to build services of all kinds.
       * Create a service that can be deployed with pio.
       * Create an API that can be used to load code, run it and get security reports back.
       * Create a dev UI that uses API to full extent.
+    
     Once these tasks are done this service can be used to provide an integrated
     solution for vetting third party code before loading it into unsecured runtimes.
 
@@ -80,6 +86,7 @@ This will teach everyone how to build services of all kinds.
       * Create a service that can be deployed with pio.
       * Create an API that can be used to perform all kinds of common cryptography operations.
       * Create a dev UI that uses API to full extent.
+    
     Once these tasks are done this service can be used to provide an integrated
     solution for end-to-end encryption on the server, in apps and in the browser.
 
@@ -88,6 +95,7 @@ This will teach everyone how to build services of all kinds.
       * Create a service that can be deployed with pio.
       * Create an API that can be used to create, configure and manage pages and page sets.
       * Create a dev UI that uses API to full extent to create ad-hock collab workspaces.
+    
     Once these tasks are done this service can be used to provide an integrated
     solution for realtime collaboration on any textual document or source file.
 
