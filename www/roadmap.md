@@ -47,3 +47,27 @@ Looking for contributors to integrate
       * Create an API that can be used to configure and manage deployments.
     Once these tasks are done this service can be integrated to automatically deploy
     subsets of services and packages into OpenStack environments.
+
+  * http://www.mozilla.org/firefox
+    #### TODO
+      * Create a service that can be used for local development.
+      * Create an API that can be used to configure and launch profiles.
+    Once these tasks are done this service can be used to provide an integrated
+    browser for development.
+
+  * https://developer.mozilla.org/en-US/Add-ons/SDK
+    #### TODO
+      * Create a service that can be used for local development.
+      * Create a service that can be used for bundling of extensions.
+      * Create an API that can be used to create, build, bundle and launch extensions.
+    Once these tasks are done this service can be used to provide an integrated
+    solution for delivering and running privileged code on in user's browsers.
+
+  * Secure EcmaScript
+    #### TODO
+      * Create a service that can be deployed with pio.
+      * Create an API that can be used to load code, run it and get security reports back.
+      * Create a dev UI that uses API to full extent.
+    Once these tasks are done this service can be used to provide an integrated
+    solution for vetting third party code before loading it into unsecured runtimes.
+
