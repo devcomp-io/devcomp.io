@@ -83,4 +83,11 @@ This will teach everyone how to build services of all kinds.
     Once these tasks are done this service can be used to provide an integrated
     solution for end-to-end encryption on the server, in apps and in the browser.
 
+  * http://etherpad.org/
+    #### TODO
+      * Create a service that can be deployed with pio.
+      * Create an API that can be used to create, configure and manage pages and page sets.
+      * Create a dev UI that uses API to full extent to create ad-hock collab workspaces.
+    Once these tasks are done this service can be used to provide an integrated
+    solution for realtime collaboration on any textual document or source file.
 
