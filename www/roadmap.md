@@ -91,3 +91,13 @@ This will teach everyone how to build services of all kinds.
     Once these tasks are done this service can be used to provide an integrated
     solution for realtime collaboration on any textual document or source file.
 
+
+Specifications to watch and play with
+=====================================
+
+  * http://www.w3.org/TR/2014/WD-service-workers-20140508/
+    * http://jakearchibald.com/2014/service-worker-first-draft/
+
+  * http://ortc.org/wp-content/uploads/2014/04/ortc1.html
+
+
