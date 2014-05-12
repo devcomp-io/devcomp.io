@@ -23,8 +23,31 @@ You are welcome to participate and contribute your unique point of view.
 > with others using devcomp.io and there is a lot of us we will create something very amazing very quickly.
 
 
-Looking for contributors to integrate
-=====================================
+Two streams of work
+===================
+
+  1. Refining of Primitive Components (Primitives)
+
+    The set of principles and components that will act as the fabric of all systems.
+
+    * **Looking for leadership**
+
+  2. Weaving of Primitive Components (Weaving)
+
+    The set of conventions and abstractions that will act to shape the first hackable dev system and support it's community.
+
+    * Lead by Christoph by building devcomp.io
+    * **Looking for contributors**
+
+
+Looking for contributors to integrate (Primitives)
+==================================================
+
+**TODO: To be specified.**
+
+
+Looking for contributors to integrate (Weaving)
+===============================================
 
 If you are interested in contributing in any way, announce your intent in a weekly meeting so we can discuss.
 Christoph can mock out a service as a starting point and discuss further details during the meetings.
