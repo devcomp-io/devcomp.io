@@ -26,12 +26,12 @@ You are welcome to participate and contribute your unique point of view.
 Two streams of work
 ===================
 
-  1. **Refining of Primitive Components (Primitives)** 
-    The set of principles and components that will act as the fabric of all systems.
+  1. **Refining of Primitive Components (Primitives)** - 
+    The set of principles and components that will act as the fabric of all derived systems.
     * Facilitated by Christoph to ensure the interests of devcomp.io and community are met.
     * **Looking for leadership**
 
-  2. **Weaving of Primitive Components (Weaving)** 
+  2. **Weaving of Primitive Components (Weaving)** - 
     The set of conventions and abstractions that will act to shape the first hackable dev system and support it's community.
     * Lead by Christoph by building devcomp.io and upstream primitive libraries.
     * **Looking for contributors**
