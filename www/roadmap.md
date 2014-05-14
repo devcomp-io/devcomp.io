@@ -105,6 +105,15 @@ This will teach everyone how to build services of all kinds.
     Once these tasks are done this service can be used to provide an integrated
     solution for realtime collaboration on any textual document or source file.
 
+  * http://www.w3.org/respec/ ( **Documentation** )
+      * Create a service that can be deployed with pio.
+      * Create an API that can be used to create, manage and update specs.
+      * Create a dev UI that uses API to full extent to create specifications.
+      * Create an abstract JSON schema to declare all aspects of a spec in JSON.
+      * Create a service that can read source code and annotations and overlay it with extra manual declarations to create a spec.
+    Once these tasks are done this service can be used to provide an integrated
+    solution for realtime documentation of API and other specifications.
+
 
 Specifications to watch and play with
 =====================================
