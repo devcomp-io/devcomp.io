@@ -37,6 +37,16 @@ Two streams of work
     * **Looking for contributors**
 
 
+Projects Christoph is planning on integrating
+=============================================
+
+  * https://github.com/montagejs/jasminum
+  * https://github.com/c9/vfs
+  * https://github.com/creationix/js-git/
+  * https://github.com/montagejs/mop
+
+
+
 Looking for contributors to integrate
 =====================================
 
