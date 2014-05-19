@@ -14,7 +14,7 @@ The aspects we consider are:
   * Primitives
   * Abstractions
   * Domain Specific Languages
-  * Containers - Runtime environments for Domain Specific Languages
+  * Runtime Containers - Runtime environments for Domain Specific Languages
   * Programs - Groups of Containers organized into generic shells
   * Distributions - Programs tuned for specific environments
   * Applications - Programs tuned for specific purposes
