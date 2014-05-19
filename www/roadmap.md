@@ -74,7 +74,22 @@ This will teach everyone how to build services of all kinds.
       * Create an API that can be used to configure and manage deployments.
     
     Once these tasks are done this service can be integrated to automatically deploy
+    subsets of services and packages into various environments.
+
+  * https://www.openstack.org/ ( **Deployment** )
+      * Create a service that can be deployed with pio.
+      * Create an API that can be used to configure and manage deployments.
+    
+    Once these tasks are done this service can be integrated to automatically deploy
     subsets of services and packages into OpenStack environments.
+
+    This [overview video](https://www.youtube.com/watch?v=c1GFoY4btpo) mentions that the new breed of apps running
+    on OpenStack are *intelligent webapps*. devcomp.io is a hackable dev service to build intelligent webapps.
+
+    The key is to use a comprehensive development system where complex relationships may be modeled (using meta data and simulation) with
+    extensive tooling and finally persisted to runtime configuration structures that are optimized for distribution.
+    The runtime structures must only encode information relevant to the runtime context and thus most data
+    associtaed with a component may be dropped.
 
   * http://www.mozilla.org/firefox ( **Development** )
       * Create a service that can be used for local development.
