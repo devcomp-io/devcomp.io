@@ -44,6 +44,9 @@ Projects Christoph is planning on integrating
   * https://github.com/c9/vfs
   * https://github.com/creationix/js-git/
   * https://github.com/montagejs/mop
+  * http://ci.openstack.org/zuul/
+  * https://github.com/visionmedia/debug
+  * http://localtunnel.me/
 
 
 
@@ -147,5 +150,20 @@ Specifications to watch and play with
     * http://jakearchibald.com/2014/service-worker-first-draft/
 
   * http://ortc.org/wp-content/uploads/2014/04/ortc1.html
+
+  * http://waterken.sourceforge.net/web-key/
+    * http://lists.w3.org/Archives/Public/www-tag/2014May/0037.html
+
+
+Issues needing help
+===================
+
+  * https://github.com/pinf-io/pio.cli/issues/1
+
+
+General TODO
+============
+
+  * Lock down server. As a start see: https://www.digitalocean.com/community/articles/initial-server-setup-with-ubuntu-14-04
 
 

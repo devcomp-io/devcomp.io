@@ -52,3 +52,11 @@ If you can assist in making this happen, please do what you can.
 
   * The above solution, if implemeneted in a light enough fashion can become a standard portable JavaScript component capable
     of described processing for all types of data streams.
+
+
+Notes
+-----
+
+  * https://gist.github.com/cadorn/73609798c63c60489b63
+    * https://groups.google.com/d/msg/devcomp-io/HB9r8wypGPk/Xx-Wy8RrPOAJ
+

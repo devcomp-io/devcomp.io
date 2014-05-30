@@ -24,6 +24,7 @@ Working
   * *Client Side*
     * *OS*
       * Mac OSX
+      * Ubuntu
     * *Browser*
       * Google Chrome
     * *JavaScript*
