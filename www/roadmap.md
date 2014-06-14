@@ -46,7 +46,14 @@ Projects Christoph is planning on integrating
   * https://github.com/montagejs/mop
   * http://ci.openstack.org/zuul/
   * https://github.com/visionmedia/debug
-  * http://localtunnel.me/
+  * http://casperjs.org/
+  * https://developers.google.com/analytics/devguides/platform/
+  * https://github.com/epeli/angry-caching-proxy
+  * https://github.com/afbobak/nopar/
+  * http://www.jstree.com/
+  * https://github.com/jordansissel/fpm
+  * https://github.com/mitchellh/packer
+  * https://github.com/MacGapProject/MacGap1
 
 
 
@@ -165,5 +172,13 @@ General TODO
 ============
 
   * Lock down server. As a start see: https://www.digitalocean.com/community/articles/initial-server-setup-with-ubuntu-14-04
+
+
+Random Links
+============
+
+### DevOps
+
+  * http://newrelic.com/devops/toolset - A Short List of DevOps Tools
 
 

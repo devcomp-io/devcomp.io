@@ -24,6 +24,11 @@ Google+ Event Page: [plus.google.com/events/...](https://plus.google.com/events/
 Previous Weeks
 ==============
 
+  * Week 4.1
+    Agenda: https://groups.google.com/d/msg/devcomp-io/KKepjxqj9B8/O_MNencesOAJ
+    YouTube: https://www.youtube.com/watch?v=2wqELx1JzRI
+    Google+: https://plus.google.com/events/cpqbdin4v8t09aga2dpo0hb263g
+
   * Week 3
   	Agenda: https://groups.google.com/forum/#!topic/devcomp-io/j2U352TnHUE
     YouTube: http://www.youtube.com/watch?v=wSg4r5xc0QY
