@@ -54,6 +54,12 @@ Projects Christoph is planning on integrating
   * https://github.com/jordansissel/fpm
   * https://github.com/mitchellh/packer
   * https://github.com/MacGapProject/MacGap1
+  * http://f.github.io/omelette/
+  * https://github.com/akenn/AWESOM-0
+  * https://github.com/balderdashy/sails
+  * http://d3js.org/
+  * http://dimplejs.org/
+  * https://github.com/runtimejs/runtime
 
 
 
@@ -181,4 +187,9 @@ Random Links
 
   * http://newrelic.com/devops/toolset - A Short List of DevOps Tools
 
+### DevLogic
+
+  * Mark Miller
+    * [Computer Security as the Future of Law](https://docs.google.com/file/d/0Bw0VXJKBgYPMS0J2VGIyWWlocms/edit) (presentation video)
+    * [Smart Contracts, Prediction, Singularities, and more](http://www.michaelcovel.com/2014/06/16/ep-248-mark-miller-interview-with-michael-covel-on-trend-following-radio-jun-17-2014/) (podcast)
 
